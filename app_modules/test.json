@@ -1,0 +1,19 @@
+[
+  {
+    "degree": "BEd Degree in Foundation Phase Teaching",
+    "faculty": "Education",
+    "duration": 4,
+    "fields": [
+      {
+        "field": "ARCHITECTURE",
+        "requirements": {
+          "sub_1": 5,
+          "sub_2": 7,
+          "sub_3": 4
+        },
+        "APS": 12,
+        "campus": "APK"
+      }
+    ]
+  }
+]
